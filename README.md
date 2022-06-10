@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Artiom</h1>
 <h3 align="center">A developer from Moldova</h3>
 
+- 🔭 I’m currently working on some low-level code projects.
+
+- 🌱 I’m currently learning how startups are created. **https://supabase.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
