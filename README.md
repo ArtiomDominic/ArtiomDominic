@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on some low-level code projects.
 
-- 🌱 I’m currently learning how startups are created.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
