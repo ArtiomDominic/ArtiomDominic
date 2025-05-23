@@ -38,7 +38,7 @@ I'm probably down some rabbit hole related to:
 
 🤖 **Smart home automation** - My house is slowly becoming sentient, and I'm here for it
 
-🔓 **Open source smart home projects** - Always on the lookout for the next cool project to contribute to or completely over-engineer
+🔓 **K8S and cloud native projects** - Because regular containers are just the beginning of the rabbit hole
 
 ## Let's Connect! 
 
@@ -46,4 +46,4 @@ I'm probably down some rabbit hole related to:
 
 ---
 
-*Currently trying to convince my smart home that 3 AM is not the optimal time to run the dishwasher, no matter what the electricity rates say.*
+*Currently trying to convince my smart home that 3 AM is not the optimal time to run the washing machine, no matter what the electricity rates say.*
