@@ -8,7 +8,8 @@ Currently working as a **Cloud Developer** with a healthy dose of DevOps thrown 
 
 My daily playground includes:
 - ☁️ **Azure** (my main squeeze) and **AWS** 
-- 🏗️ Infrastructure design and automation
+- 🏗️ Infrastructure design
+- 🚀 Automation
 
 ## Tech Stack 🛠️
 
