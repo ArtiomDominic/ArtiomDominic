@@ -17,8 +17,9 @@ My daily playground includes:
 ```
 🐍 Python      # My go-to for almost everything
 🐚 Shell       # Because who doesn't love a good bash script?
-🏗️ Bicep       # Azure's infrastructure language of choice
-⚡ C++         # When I need that extra performance kick
+⚡  C++         # When I need that extra performance kick (microcontrollers)
+🐹 Go          # Fast, simple, and reliable
+🏗️ Bicep       # ARM + other infrastructure languages
 ```
 
 **Tools that keep me sane:**
